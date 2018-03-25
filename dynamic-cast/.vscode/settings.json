@@ -1,0 +1,5 @@
+{
+    "C_Cpp.clang_format_fallbackStyle": "google",
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true
+}
